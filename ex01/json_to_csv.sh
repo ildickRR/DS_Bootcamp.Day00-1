@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 
 INPUT_FILE="hh.json"
 OUTPUT_FILE="hh.csv"
